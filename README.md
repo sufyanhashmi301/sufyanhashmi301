@@ -1,16 +1,28 @@
-## Hi there 👋
+🌟 Why Choose Me?
 
-<!--
-**sufyanhashmi301/sufyanhashmi301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✔ 7+ years of full stack development experience
+✔ Delivered 100+ projects successfully
+✔ Grew from Developer → Team Lead → Project Manager in software houses
+✔ Proficient in Laravel since version 5.2
+✔ Successfully handled large-scale projects with significant revenue generation
 
-Here are some ideas to get you started:
+🛠 Skills Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗄 Database Design: Crafting efficient database architectures
+📐 Software Design Principles: Implementing KISS, DRY, and SOLID principles
+🧩 Design Patterns: Mastery in Singleton, Facade, Adapter, Builder, Bridge, etc.
+✅ Unit Testing: TDD and Unit Testing
+💬 Real-Time Chat: Using Pusher, Sockets, and Reverb
+🔗 API Integration: Seamless integration of REST APIs and MT5 APIs
+🚀 Advanced Laravel Concepts: Eloquent, Package Development, Dusk, Cashier, Listeners, etc.
+⚡ Performance Optimization: Enhancing performance for smoother user experiences
+
+💻 My Tech Stack
+
+🌐 Web Stack: PHP, Laravel, Livewire, Inertia, Vue.js, React, AI, Python, jQuery, ChatGPT, Docker, FinTech, JavaScript, Figma, WordPress
+🤖 AI Integrations: ChatGPT Models, AI-based solutions, MT5 API
+🎨 UI Frameworks: Bootstrap, Tailwind CSS, CSS3
+🗃 Data Stack: MySQL, PostgreSQL, MongoDB, Redis, various database architectures
+🔐 Authentication & Security: Secure auth systems and access control
+
+🚀 Let’s Build Your Dream Project
